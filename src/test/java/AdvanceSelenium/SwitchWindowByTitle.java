@@ -38,7 +38,7 @@ public class SwitchWindowByTitle {
 				
 				driver.switchTo().window(currentWindow);
 				
-				
+				//github change 
 			}
 			
 		}
